@@ -71,7 +71,7 @@ The [branches.md][branches-url] file summarizes the available branches and displ
 var filled5dBy = require( '@stdlib/array-base-filled5d-by' );
 ```
 
-#### filled5dBy( len, clbk\[, thisArg] )
+#### filled5dBy( shape, clbk\[, thisArg] )
 
 Returns a filled five-dimensional nested array according to a provided callback function.
 
@@ -208,8 +208,8 @@ Copyright &copy; 2016-2023. The Stdlib [Authors][stdlib-authors].
 [npm-image]: http://img.shields.io/npm/v/@stdlib/array-base-filled5d-by.svg
 [npm-url]: https://npmjs.org/package/@stdlib/array-base-filled5d-by
 
-[test-image]: https://github.com/stdlib-js/array-base-filled5d-by/actions/workflows/test.yml/badge.svg?branch=v0.0.1
-[test-url]: https://github.com/stdlib-js/array-base-filled5d-by/actions/workflows/test.yml?query=branch:v0.0.1
+[test-image]: https://github.com/stdlib-js/array-base-filled5d-by/actions/workflows/test.yml/badge.svg?branch=main
+[test-url]: https://github.com/stdlib-js/array-base-filled5d-by/actions/workflows/test.yml?query=branch:main
 
 [coverage-image]: https://img.shields.io/codecov/c/github/stdlib-js/array-base-filled5d-by/main.svg
 [coverage-url]: https://codecov.io/github/stdlib-js/array-base-filled5d-by?branch=main
